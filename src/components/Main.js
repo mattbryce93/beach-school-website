@@ -70,21 +70,15 @@ class Main extends React.Component {
             <p className='reference'>On my Coastal Activity Course. Findhorn Beach, Scotland</p>
           </span>
           <h3>About Me</h3>
-          <p>
-          Hello, I’m Hayley and I’m originally from Glasgow, Scotland. I've been in New Zealand since August 2019 and now live in Waihi Beach, Bay of Plenty. I am currently a Provisionally Registered Teacher with the Teaching Council of New Zealand, but I’m a Fully Registered Geography Teacher with the General Teaching Council for Scotland.
-          </p>
-          <p>
-          I have always had an interest in education and the marine environment. My passion and knowledge were developed by my Undergraduate Degree in Environmental Geography and distance learning Marine Biology course.
-          </p>
-          <p>
-          Through my previous role as a Geography Teacher in Scotland and Beach School Practitioner courses, I endeavoured to provide my pupils or potential client groups with fun educational experiences. I have considerable experience creating and delivering lessons, many of which focused on marine life and ocean plastic.
-          </p>
-          <p>
-          As well as becoming a Teacher, I worked as a BASI Alpine Level 1 Instructor for 4 years, which involved teaching groups of varying ages. Moreover, while living in Auckland for several months, I worked as a College Teacher Aide. Consequently, I have experience with supporting and engaging young people of varying abilities.
-          </p>
-          <p>
-          Through my love of teaching, the marine environment and active working, I have decided to establish my own Beach School. I aim to educate and inspire people of all ages. But most of all, I want everyone to enjoy and have fun at the beach!
-          </p>
+          <p>Hello, I’m Hayley and I’m originally from Glasgow, Scotland. I’ve been in New Zealand since August 2019 and now live in Waihi Beach, Bay of Plenty. </p>
+
+          <p>I have always had an interest in education and the marine environment. My passion and knowledge were developed by my Undergraduate Degree (Hons) in Environmental Geography and distance learning Marine Biology course. Following my Post Graduate Diploma in Secondary Education, I undertook my Level 2 Coastal Activity Leader training and Level 3 Beach School Practitioner course. I have also kept an up to date Outdoor First Aid qualification. </p>
+
+          <p>Through my previous role as a Probationary Geography Teacher in Scotland, I endeavoured to provide my pupils with fun educational experiences. I gained considerable experience creating and delivering lessons, many of which focused on marine life and ocean plastic. Following the completion of my Probationary Year, I gained Full Registration with the General Teaching Council for Scotland. Since arriving in New Zealand, I received Provisional Registration with the Teaching Council of New Zealand. </p>
+
+          <p>As well as becoming a Teacher, I worked as a BASI Alpine Level 1 Instructor for 4 years, which involved teaching groups of varying ages. Moreover, while living in Auckland for several months, I worked as a College Teacher Aide. Consequently, I have experience with supporting and engaging young people of varying abilities. </p>
+
+          <p>Through my love of teaching, the marine environment and active working, I have decided to establish my own Beach School! I aim to educate and inspire people of all ages. But most of all, I want everyone to enjoy and have fun at the beach!</p>
           <h3>The Importance of Going Outdoors</h3>
           <p>
           Health, as defined by The World Health Organization (2016) is a state of total physical, mental and social well-being (The World Health Organization 2016). Moreover, wellbeing was defined by Dodge et al. (2012) as a condition where an individual has the physical, psychological and social means to overcome psychological, social and/or physical challenges.
