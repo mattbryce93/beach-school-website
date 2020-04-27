@@ -130,7 +130,7 @@ class Main extends React.Component {
           </p>
           
           <p className='reference'>
-          The Wildlife Trusts and RSPB. (2014). A Nature and Wellbeing Act. Available: www.wildlifetrusts.org/sites/default/files/green_paper_nature_and_wellbeing_act_full_final. pdf [Accessed: 01/03/17].
+          The Wildlife Trusts and RSPB. (2014) A Nature and Wellbeing Act. Available: www.wildlifetrusts.org/sites/default/files/green_paper_nature_and_wellbeing_act_full_final. pdf [Accessed: 01/03/17].
           </p>
           
           <p className='reference'>
