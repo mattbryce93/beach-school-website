@@ -4,14 +4,14 @@
   "version": "1.0.0",
   "author": "Hunter Chang",
   "dependencies": {
-    "gatsby": "^2.19.5",
-    "gatsby-plugin-manifest": "^2.2.38",
-    "gatsby-plugin-react-helmet": "^3.1.21",
-    "gatsby-plugin-sass": "^2.1.27",
-    "node-sass": "^4.13.1",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-helmet": "^5.2.1"
+    "gatsby": "^2.20.36",
+    "gatsby-plugin-manifest": "^2.3.7",
+    "gatsby-plugin-react-helmet": "^3.2.5",
+    "gatsby-plugin-sass": "^2.2.4",
+    "node-sass": "^4.14.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.0.0"
   },
   "keywords": [
     "gatsby"
@@ -19,14 +19,16 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
+    "clean": "rm -rf node_modules/ .cache/ public/ package-lock.json",
     "develop": "gatsby develop",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "deploy": "gatsby build && gh-pages -d public",
     "format": "prettier --write '**/*.js'",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "gatsby serve"
   },
   "devDependencies": {
     "gh-pages": "^2.2.0",
-    "prettier": "^1.19.1"
+    "prettier": "^2.0.5"
   },
   "repository": {
     "type": "git",

@@ -19,6 +19,5 @@ module.exports = {
       }
     },
     'gatsby-plugin-sass'
-  ],
-  pathPrefix: '/beach-school-website'
+  ]
 }
