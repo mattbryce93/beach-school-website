@@ -90,8 +90,8 @@
     border-top-width: _size(border-width);
     border-bottom-width: _size(border-width);
     max-width: 100%;
-    background-color: rgba(0, 40, 60, 0.8);
-    border-radius: 5px;
+    background-color: _palette(element-background);
+    border-radius: _size(border-radius);
 
     .inner {
       @include vendor(
