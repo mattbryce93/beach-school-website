@@ -1,14 +1,15 @@
 import PropTypes from 'prop-types'
 import React from 'react'
+import profileImage from '../images/profileImage.png'
 
 const Header = props => (
   <header id="header" style={props.timeout ? { display: 'none' } : {}}>
     <div className="logo">
-      <span className="icon fa-diamond"></span>
+      <img src={profileImage} alt=''></img>
     </div>
     <div className="content">
       <div className="inner">
-        <h1>Dimension</h1>
+        <h1>Hayley's Beach School</h1>
         <p>
           A fully responsive site template designed by{' '}
           <a href="https://html5up.net">HTML5 UP</a> and released
