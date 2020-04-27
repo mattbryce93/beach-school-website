@@ -80,7 +80,7 @@ class Main extends React.Component {
           As well as becoming a Teacher, I worked as a BASI Alpine Level 1 Instructor for 4 years, which involved teaching groups of varying ages. Moreover, while living in Auckland for several months, I worked as a College Teacher Aide. Consequently, I have experience with supporting and engaging young people of varying abilities.
           </p>
           <p>
-          Through my love of teaching, the marine environment and active working, I have decided to establish my own Beach School. I aim to educate and inspire people of all ages. But most of all, I want everyone to enjoy and have fun at the beach!.
+          Through my love of teaching, the marine environment and active working, I have decided to establish my own Beach School. I aim to educate and inspire people of all ages. But most of all, I want everyone to enjoy and have fun at the beach!
           </p>
           {close}
         </article>
@@ -113,7 +113,7 @@ class Main extends React.Component {
           </p>
           {close}
         </article>
-        
+
         <article
           id="contact"
           className={`${this.props.article === 'contact' ? 'active' : ''} ${
