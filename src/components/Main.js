@@ -96,13 +96,19 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
-            eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam
-            erat volutpat. Praesent urna nisi, fringila lorem et vehicula
-            lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
-            Aliquam libero et malesuada fames ac ante ipsum primis in faucibus.
-            Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit
-            amet.
+          Hello, I’m Hayley and I’m originally from Glasgow, Scotland. I now live in Waihi Beach, Bay of Plenty. I am currently a Provisionally Registered Teacher with the Teaching Council of New Zealand, but I’m a Fully Registered Geography Teacher with the General Teaching Council for Scotland.
+          </p>
+          <p>
+          I have always had an interest in education and the marine environment. My passion and knowledge were developed by my Undergraduate Degree in Environmental Geography and distance learning Marine Biology course.
+          </p>
+          <p>
+          Through my previous role as a Geography Teacher in Scotland and Beach School Practitioner courses, I endeavoured to provide my pupils or potential client groups with fun educational experiences. I have considerable experience creating and delivering lessons, many of which focused on marine life and ocean plastic.
+          </p>
+          <p>
+          As well as becoming a Teacher, I worked as a BASI Alpine Level 1 Instructor for 4 years, which involved teaching groups of varying ages. Moreover, while living in Auckland for several months, I worked as a College Teacher Aide. Consequently, I have experience with supporting and engaging young people of varying abilities.
+          </p>
+          <p>
+          Through my love of teaching, the marine environment and active working, I have decided to establish my own Beach School. I aim to educate and inspire people of all ages. But most of all, I want everyone to enjoy and have fun at the beach!.
           </p>
           {close}
         </article>
