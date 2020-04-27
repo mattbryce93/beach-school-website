@@ -14,7 +14,7 @@ const Header = props => (
           <a href="https://html5up.net">HTML5 UP</a> and released
           <br />
           for free under the{' '}
-          <a href="https://html5up.net/license">Creative Commons</a> license.
+          <a href="https://html5up.net/license">Creative Commons</a> license. Deployed with Github Actions.
         </p>
       </div>
     </div>
