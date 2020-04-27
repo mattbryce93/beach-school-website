@@ -180,7 +180,7 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Contact</h2>
-          <form method="GET" action="mailto:hayleysaunders09@gmail.com">
+          <form method="GET" action="mailto:hello@beachschool.co.nz">
             <ul className="actions">
               <li>
                 <input type="submit" value="Send Message" className="special" />
