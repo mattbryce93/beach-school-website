@@ -138,7 +138,7 @@ class Main extends React.Component {
           To book a lesson, please contact myself via the Contact section of this site. On booking a lesson, a confirmation email with date and time will be sent to your email address. After the lesson an invoice will be issued to the same email address.
           </p>
           <p>
-          Sessions are tailored for children aged 4-8 and 9-13 years old. However, Parents are welcome to come along. I am also happy to discuss session for younger/older children or adults.
+          Sessions are tailored for children aged 4-8 and 9-13 years old. However, adults are welcome to come along. I am also happy to discuss sessions for younger or older children and adults.
           </p>
 
           <h3>
@@ -146,9 +146,10 @@ class Main extends React.Component {
           </h3>
           <ul>
             <li>Shirts with sleeves and/or shoulder cover, collars</li>
-            <li>Sun hats with wide brims and/or flaps.</li>
+            <li>Sun hats with wide brims and/or flaps</li>
             <li>Spare jumper and warm hat</li>
             <li>Suitable waterproof jacket and waterproof trousers</li>
+            <li>Appropriate footwear (not barefoot)</li>
             <li>Sun cream</li>
             <li>Towel</li>
             <li>Sunglasses</li>
@@ -156,7 +157,7 @@ class Main extends React.Component {
             <li>Any required medication</li>
           </ul>
           <p>
-          The natural world is always changing and going outside in all weather provides valuable learning experiences. Beach School will take place in all weather, unless it is unsafe to do so. Children must therefore come prepared. Unfortunately, I cannot supply wet or cold weather gear. 
+          The natural world is always changing and going outside in all weather provides valuable learning experiences. Beach School will take place in all weather, unless it is unsafe to do so. All participants must therefore come prepared. Unfortunately, I cannot supply wet or cold weather gear. 
           </p>
           <p>
           There is a public toilet at the car park where we meet, should anyone need during the session. It can also be used for changing clothes. 
