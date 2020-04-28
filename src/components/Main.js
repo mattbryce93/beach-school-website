@@ -116,7 +116,7 @@ class Main extends React.Component {
             <li>Environmental/marine art</li>
           </ul>
           <p>
-          I am also happy to discuss custom lessons.
+          I am also happy to discuss custom lessons. Including within the classroom.
           </p>
           <p>
           Through these activities, children will also develop important life skills such as team work, communication, and confidence in an outdoor setting.
