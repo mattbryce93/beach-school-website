@@ -159,7 +159,7 @@ class Main extends React.Component {
           The natural world is always changing and going outside in all weather provides valuable learning experiences. Beach School will take place in all weather, unless it is unsafe to do so. Children must therefore come prepared. Unfortunately, I cannot supply wet or cold weather gear. 
           </p>
           <p>
-          There is a public toilet at the car park where we meet, should a child need during the session. It can also be used for changing clothes. 
+          There is a public toilet at the car park where we meet, should anyone need during the session. It can also be used for changing clothes. 
           </p>
 
           <h3>
