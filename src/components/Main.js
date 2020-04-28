@@ -3,6 +3,7 @@ import React from 'react'
 import about from '../images/about.jpg'
 import lessons from '../images/lessons.jpg'
 import intro from '../images/intro.jpg'
+import accreditation from '../images/accreditation-badge.jpg'
 
 class Main extends React.Component {
   render() {
@@ -81,6 +82,9 @@ class Main extends React.Component {
           <p>As well as becoming a Teacher, I worked as a BASI Alpine Level 1 Skiing Instructor for 4 years, which involved teaching groups of varying ages. Moreover, while living in Auckland for several months, I worked as a College Teacher Aide. Consequently, I have experience with supporting and engaging young people of varying abilities. </p>
 
           <p>Through my love of teaching, the marine environment and active working, I have decided to establish my own Beach School! I aim to educate and inspire people of all ages. But most of all, I want everyone to enjoy and have fun at the beach!</p>
+          <span className="image badge">
+            <img src={accreditation} alt=""/>
+          </span>
           {close}
         </article>
 
@@ -159,7 +163,7 @@ class Main extends React.Component {
           <p>
           The natural world is always changing and going outside in all weather provides valuable learning experiences. Beach School will take place in all weather, unless it is unsafe to do so. All participants must therefore come prepared. Unfortunately, I cannot supply wet or cold weather gear. 
           </p>
-          
+
           <h3>
           Health, Safety and Emergencies
           </h3>
