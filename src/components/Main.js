@@ -97,7 +97,7 @@ class Main extends React.Component {
             <p className='reference'>Photo by Khürt Williams on Unsplash</p>
           </span>
           <p>
-          I am offering schools and out of school Beach School sessions on a one off or short term basis. It can be timetabled into educational programmes or take place after school, at weekends or during holidays.
+          I am offering Beach School sessions to schools on a one off or short term basis. These can be timetabled into educational programmes or take place after school.
           </p>
 
           <h3>
@@ -116,7 +116,7 @@ class Main extends React.Component {
             <li>Environmental/marine art</li>
           </ul>
           <p>
-          I am also happy to discuss custom lessons. Including within the classroom.
+          I am also happy to discuss custom lessons, including those within the classroom.
           </p>
           <p>
           Through these activities, children will also develop important life skills such as team work, communication, and confidence in an outdoor setting.
@@ -176,7 +176,7 @@ class Main extends React.Component {
           Physical boundaries will be made clear using landmarks on or around the beach.
           </p>
           <p>
-          Parents or the school will be informed immediately if a child is involved in any injuries, accidents, incidents, dangerous behaviour or unsafe use of equipment.
+          The school will be informed immediately if a child is involved in any injuries, accidents, incidents, dangerous behaviour or unsafe use of equipment.
           </p>
           {close}
         </article>
