@@ -50,11 +50,11 @@ class Main extends React.Component {
           </p>
           
           <p>
-          In general, individuals who have access to nature are three times more likely to participate in physical activity and the risk of becoming overweight or obese is reduced by 40%. Engagement with the natural environment can also facilitate the treatment of depression and other mental health illnesses. The reduction of tension and depression was observed by in studies that monitored benefits of outdoor activity.
+          In general, individuals who have access to nature are three times more likely to participate in physical activity and the risk of becoming overweight or obese is reduced by 40%. Engagement with the natural environment can also facilitate the treatment of depression and other mental health illnesses. The reduction of tension and depression was observed in studies that monitored benefits of outdoor activity.
           </p>
           
           <p>
-          Regarding Beach School education, the beach is a perfect example of a blue space. Blue spaces are described as those comprised of all observable surface water. These environments have displayed an ability to generate wellbeing benefits. A study conducted by found that self-reported good health was more prevalent the closer participants lived to the coast. Green nature and natural water environments were repeatedly preferred over other forms of nature by participants who felt relaxed. Those who were exhibiting happiness also frequently selected natural water environments. This suggests that the natural environment, including the beach, is desirable when relaxing or enjoying recreational activities.
+          Regarding Beach School education, the beach is a perfect example of a blue space. Blue spaces are described as those comprised of all observable surface water. These environments have displayed an ability to generate wellbeing benefits. One study found that self-reported good health was more prevalent the closer participants lived to the coast. Green nature and natural water environments were repeatedly preferred over other forms of nature by participants who felt relaxed. Those who were exhibiting happiness also frequently selected natural water environments. This suggests that the natural environment, including the beach, is desirable when relaxing or enjoying recreational activities.
           </p>
           {close}
         </article>
@@ -126,8 +126,11 @@ class Main extends React.Component {
           </p>
 
           <h3>
-          Session Sizes and Ages
+          Session Ages and Sizes
           </h3> 
+          <p>
+          Sessions are tailored for children aged 4-8 and 9-13 years old. I am also happy to discuss sessions for younger or older children.
+          </p>
           <p>
           For all sessions, the adult to children ratio will be 1:6. I feel smaller group sizes allows for more flexible and hands-on learning. This in turn, provides children with a higher quality learning experience.
           </p>
@@ -136,9 +139,6 @@ class Main extends React.Component {
           </p>
           <p>
           To book a lesson, please contact myself via the Contact section of this site. On booking a lesson, a confirmation email with date and time will be sent to your email address. After the lesson an invoice will be issued to the same email address.
-          </p>
-          <p>
-          Sessions are tailored for children aged 4-8 and 9-13 years old. However, adults are welcome to come along. I am also happy to discuss sessions for younger or older children and adults.
           </p>
 
           <h3>
@@ -159,10 +159,7 @@ class Main extends React.Component {
           <p>
           The natural world is always changing and going outside in all weather provides valuable learning experiences. Beach School will take place in all weather, unless it is unsafe to do so. All participants must therefore come prepared. Unfortunately, I cannot supply wet or cold weather gear. 
           </p>
-          <p>
-          There is a public toilet at the car park where we meet, should anyone need during the session. It can also be used for changing clothes. 
-          </p>
-
+          
           <h3>
           Health, Safety and Emergencies
           </h3>
