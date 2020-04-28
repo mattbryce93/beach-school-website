@@ -42,19 +42,19 @@ class Main extends React.Component {
 
           <h3>The Importance of Going Outdoors</h3>
           <p>
-          Health, as defined by The World Health Organization (2016) is a state of total physical, mental and social well-being (The World Health Organization 2016). Moreover, wellbeing was defined by Dodge et al. (2012) as a condition where an individual has the physical, psychological and social means to overcome psychological, social and/or physical challenges.
+          Health, as defined by The World Health Organization is a state of total physical, mental and social well-being. Moreover, wellbeing is defined as a condition where an individual has the physical, psychological and social means to overcome psychological, social and/or physical challenges.
           </p>
           
           <p>
-          Outdoor activities and contact with nature is not only fun, but also encompasses fitness, stress management, education and social bonding. Time spent in the natural environment can provide both immediate and long term physical, mental and social benefits (Lederbogen et al. 2011).
+          Outdoor activities and contact with nature is not only fun, but also encompasses fitness, stress management, education and social bonding. Time spent in the natural environment can provide both immediate and long term physical, mental and social benefits.
           </p>
           
           <p>
-          In general, individuals who have access to nature are three times more likely to participate in physical activity and the risk of becoming overweight or obese is reduced by 40% (The Wildlife Trusts and RSPB 2014). Engagement with the natural environment can also facilitate the treatment of depression and other mental health illnesses (de Vries et al. 2010). The reduction of tension and depression was observed by Coon et al. (2011) and Mitten et al. (2016) in studies that monitored benefits of outdoor activity.
+          In general, individuals who have access to nature are three times more likely to participate in physical activity and the risk of becoming overweight or obese is reduced by 40%. Engagement with the natural environment can also facilitate the treatment of depression and other mental health illnesses. The reduction of tension and depression was observed by in studies that monitored benefits of outdoor activity.
           </p>
           
           <p>
-          Regarding Beach School education, the beach is a perfect example of a blue space. Blue spaces are described as those comprised of all observable surface water. These environments have displayed an ability to generate wellbeing benefits (Völker and Kistemann 2011). A study conducted by Wheeler et al (2012), found that self-reported good health was more prevalent the closer participants lived to the coast. Green nature and natural water environments were repeatedly preferred over other forms of nature by participants who felt relaxed. Those who were exhibiting happiness also frequently selected natural water environments (Regan and Horn 2005). This suggests that the natural environment, including the beach, is desirable when relaxing or enjoying recreational activities.
+          Regarding Beach School education, the beach is a perfect example of a blue space. Blue spaces are described as those comprised of all observable surface water. These environments have displayed an ability to generate wellbeing benefits. A study conducted by found that self-reported good health was more prevalent the closer participants lived to the coast. Green nature and natural water environments were repeatedly preferred over other forms of nature by participants who felt relaxed. Those who were exhibiting happiness also frequently selected natural water environments. This suggests that the natural environment, including the beach, is desirable when relaxing or enjoying recreational activities.
           </p>
           {close}
         </article>
