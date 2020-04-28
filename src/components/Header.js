@@ -11,11 +11,11 @@ const Header = props => (
       <div className="inner">
         <h1>Hayley's Beach School</h1>
         <p>
-          A fully responsive site template designed by{' '}
-          <a href="https://html5up.net">HTML5 UP</a> and released
-          <br />
-          for free under the{' '}
-          <a href="https://html5up.net/license">Creative Commons</a> license. Deployed with Github Actions.
+        Kia ora and welcome to Hayley’s Beach School!
+        <br />
+        I am offering Beach School sessions to schools and families on Waihi Beach. 
+        <br />
+        Come along, have fun and learn about the beach and seas!
         </p>
       </div>
     </div>

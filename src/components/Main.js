@@ -28,57 +28,18 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Intro</h2>
+          <h2 className="major">What is Beach School?</h2>
           <span className="image main">
             <img src={intro} alt="" />
             <p className='reference'>Photo by Razvan Narcis Ticu on Unsplash</p>
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#work">awesome work</a>.
+          Beach School provides children with the opportunity to visit, learn about and fall in love with the beach through hands-on learning. It raises children’s awareness of local and global coastal environments, inspiring them to assist in conservation efforts. Consequently, this helps to safeguard our seas and beaches for future generations.
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.
+          Using a variety of fun games and activities, children acquire new skills, expand their knowledge and are actively encouraged to explore their natural surroundings. This style of learning is strongly child-led, so no two beach school sessions are the same.
           </p>
-          {close}
-        </article>
 
-
-        <article
-          id="about"
-          className={`${this.props.article === 'about' ? 'active' : ''} ${
-            this.props.articleTimeout ? 'timeout' : ''
-          }`}
-          style={{ display: 'none' }}
-        >
-          <h2 className="major">About</h2>
-          <span className="image main">
-            <img src={about} alt="" />
-            <p className='reference'>On my Coastal Activity Course. Findhorn Beach, Scotland</p>
-          </span>
-          <h3>About Me</h3>
-          <p>Hello, I’m Hayley and I’m originally from Glasgow, Scotland. I’ve been in New Zealand since August 2019 and now live in Waihi Beach, Bay of Plenty. </p>
-
-          <p>I have always had an interest in education and the marine environment. My passion and knowledge were developed by my Undergraduate Degree (Hons) in Environmental Geography and distance learning Marine Biology course. Following my Post Graduate Diploma in Secondary Education, I undertook my Level 2 Coastal Activity Leader training and Level 3 Beach School Practitioner course. I have also kept an up to date Outdoor First Aid qualification. </p>
-
-          <p>Through my previous role as a Probationary Geography Teacher in Scotland, I endeavoured to provide my pupils with fun educational experiences. I gained considerable experience creating and delivering lessons, many of which focused on marine life and ocean plastic. Following the completion of my Probationary Year, I gained Full Registration with the General Teaching Council for Scotland. Since arriving in New Zealand, I received Provisional Registration with the Teaching Council of New Zealand. </p>
-
-          <p>As well as becoming a Teacher, I worked as a BASI Alpine Level 1 Instructor for 4 years, which involved teaching groups of varying ages. Moreover, while living in Auckland for several months, I worked as a College Teacher Aide. Consequently, I have experience with supporting and engaging young people of varying abilities. </p>
-
-          <p>Through my love of teaching, the marine environment and active working, I have decided to establish my own Beach School! I aim to educate and inspire people of all ages. But most of all, I want everyone to enjoy and have fun at the beach!</p>
           <h3>The Importance of Going Outdoors</h3>
           <p>
           Health, as defined by The World Health Organization (2016) is a state of total physical, mental and social well-being (The World Health Organization 2016). Moreover, wellbeing was defined by Dodge et al. (2012) as a condition where an individual has the physical, psychological and social means to overcome psychological, social and/or physical challenges.
@@ -142,6 +103,31 @@ class Main extends React.Component {
           {close}
         </article>
 
+
+        <article
+          id="about"
+          className={`${this.props.article === 'about' ? 'active' : ''} ${
+            this.props.articleTimeout ? 'timeout' : ''
+          }`}
+          style={{ display: 'none' }}
+        >
+          <h2 className="major">About Me</h2>
+          <span className="image main">
+            <img src={about} alt="" />
+            <p className='reference'>On my Coastal Activity Course. Findhorn Beach, Scotland</p>
+          </span>
+          <p>Hello, I’m Hayley and I’m originally from Glasgow, Scotland. I’ve been in New Zealand since August 2019 and now live in Waihi Beach, Bay of Plenty. </p>
+
+          <p>I have always had an interest in education and the marine environment. My passion and knowledge were developed by my Undergraduate Degree (Hons) in Environmental Geography and distance learning Marine Biology course. Following my Post Graduate Diploma in Secondary Education, I undertook my Level 2 Coastal Activity Leader training and Level 3 Beach School Practitioner course. I have also kept an up to date Outdoor First Aid qualification. </p>
+
+          <p>Through my previous role as a Probationary Geography Teacher in Scotland, I endeavoured to provide my pupils with fun educational experiences. I gained considerable experience creating and delivering lessons, many of which focused on marine life and ocean plastic. Following the completion of my Probationary Year, I gained Full Registration with the General Teaching Council for Scotland. Since arriving in New Zealand, I received Provisional Registration with the Teaching Council of New Zealand. </p>
+
+          <p>As well as becoming a Teacher, I worked as a BASI Alpine Level 1 Instructor for 4 years, which involved teaching groups of varying ages. Moreover, while living in Auckland for several months, I worked as a College Teacher Aide. Consequently, I have experience with supporting and engaging young people of varying abilities. </p>
+
+          <p>Through my love of teaching, the marine environment and active working, I have decided to establish my own Beach School! I aim to educate and inspire people of all ages. But most of all, I want everyone to enjoy and have fun at the beach!</p>
+          {close}
+        </article>
+
         <article
           id="lessons"
           className={`${this.props.article === 'lessons' ? 'active' : ''} ${
@@ -155,19 +141,97 @@ class Main extends React.Component {
             <p className='reference'>Photo by Khürt Williams on Unsplash</p>
           </span>
           <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
+          I am offering schools and families Beach School sessions on a one off or short term basis. It can be timetabled into educational programmes or take place after school, at weekends or during holidays.
           </p>
           <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
+          Sessions will take place on Waihi Beach in front of the Waihi Beach Lifeguard Office.
+          </p>
+
+          <h3>
+          Beach School Topics
+          </h3>
+          <p>
+          Any number of the following topics could be explored during a session:
+          </p>
+          <ul>
+            <li>How to behave sensibly and act responsibly at the beach</li>
+            <li>Seasons and tides</li>
+            <li>Species identification and information</li>
+            <li>How marine flora and fauna are adapted to survive in their environment</li>
+            <li>Pressures on the marine environment; including over fishing and marine pollution</li>
+            <li>Mini beach cleans</li>
+            <li>Environmental/marine art</li>
+          </ul>
+          <p>
+          I am also happy to discuss custom lessons.
+          </p>
+          <p>
+          Through these activities, children will also develop important life skills such as team work, communication, and confidence in an outdoor setting.
+          </p>
+          <p>
+          Unfortunately, children will not be permitted to go swimming during Beach School sessions. However, they will be able to stand at the water line and enjoy the water rushing over their feet.
+          </p>
+
+          <h3>
+          Session Costs, Ages and Sizes
+          </h3> 
+          <p>
+          For schools, a 1 hour session will cost $60.
+          </p>
+          <p>
+          For families, a 1 hour session will cost $40 per child (10% off for multiple children under the same booking).
+          </p>
+          <p>
+          To book a lesson, please contact me. On booking a lesson, a confirmation email with date and time will be sent to your email address. After the lesson an invoice will be issued to the same email address.
+          </p>
+          <p>
+          Please meet in the car park adjacent to the Lifeguard Office 10 minutes before the start of your session. Unfortunately, you will have to organise your own transport.
+          </p>
+          <p>
+          Sessions are tailored for children aged 4-8 and 9-13 years old. However, Parents are welcome to come along. I am also happy to discuss session for younger/older children or adults.
+          </p>
+          <p>
+          For all sessions, the adult to children ratio will be 1:6. I feel smaller group sizes allows for more flexible and hands-on learning. This in turn, provides children with a higher quality learning experience.
+          </p>
+          <p>
+          For schools, the ideal group size would be no larger than 10 children. This can be negotiable. Nevertheless, the support of Classroom Teachers and/or Teacher Aides will be required at the same adult to children ratio of 1:6.
+          </p>
+
+          <h3>
+          What to Wear and Bring to a Beach School Session
+          </h3>
+          <ul>
+            <li>Shirts with sleeves and/or shoulder cover, collars</li>
+            <li>Sun hats with wide brims and/or flaps.</li>
+            <li>Spare jumper and warm hat</li>
+            <li>Suitable waterproof jacket and waterproof trousers</li>
+            <li>Sun cream</li>
+            <li>Towel</li>
+            <li>Sunglasses</li>
+            <li>Water and any snacks</li>
+            <li>Any required medication</li>
+          </ul>
+          <p>
+          The natural world is always changing and going outside in all weather provides valuable learning experiences. Beach School will take place in all weather, unless it is unsafe to do so. Children must therefore come prepared. Unfortunately, I cannot supply wet or cold weather gear. 
+          </p>
+          <p>
+          There is a public toilet at the car park where we meet, should a child need during the session. It can also be used for changing clothes. 
+          </p>
+
+          <h3>
+          Health, Safety and Emergencies
+          </h3>
+          <p>
+          At the start of every session there will be a safety briefing, which includes physical boundaries, safety guidelines and session specific expectations. Children must follow my instructions, so that everyone can enjoy the session in a fun, but safe manner.
+          </p>
+          <p>
+          When necessary, I will use a whistle to gather children together or get immediate attention.
+          </p>
+          <p>
+          Physical boundaries will be made clear using landmarks on or around the beach. Normally, these will be the Lifeguard office and public toilets.
+          </p>
+          <p>
+          Parents or the school will be informed immediately if a child is involved in any injuries, accidents, incidents, dangerous behaviour or unsafe use of equipment.
           </p>
           {close}
         </article>
@@ -179,39 +243,25 @@ class Main extends React.Component {
             }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Contact</h2>
-          <form method="GET" action="mailto:hello@beachschool.co.nz">
-            <ul className="actions">
-              <li>
-                <input type="submit" value="Send Message" className="special" />
-              </li>
-            </ul>
-          </form>
+          <h2 className="major">Contact Me</h2>
+          <h3>
+            Email: <a href='mailto:hayley@beachschool.co.nz'>hayley@beachschool.co.nz</a>
+          </h3>
+          <h3>
+            Mobile: <a href='tel:+6421968403'>+64 (0) 21 196 8403</a>
+          </h3>
           <ul className="icons">
-            <li>
-              <a
-                href="https://twitter.com/HuntaroSan"
-                className="icon fa-twitter"
-              >
-                <span className="label">Twitter</span>
-              </a>
-            </li>
-            <li>
+            {/* <li>
               <a href="https://codebushi.com" className="icon fa-facebook">
                 <span className="label">Facebook</span>
               </a>
-            </li>
-            <li>
-              <a href="https://codebushi.com" className="icon fa-instagram">
-                <span className="label">Instagram</span>
-              </a>
-            </li>
+            </li> */}
             <li>
               <a
-                href="https://github.com/codebushi/gatsby-starter-dimension"
-                className="icon fa-github"
+                href="https://www.linkedin.com/in/hayley-saunders/"
+                className="icon fa-linkedin"
               >
-                <span className="label">GitHub</span>
+                <span className="label">LinkedIn</span>
               </a>
             </li>
           </ul>
