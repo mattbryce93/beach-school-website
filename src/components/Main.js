@@ -97,7 +97,7 @@ class Main extends React.Component {
             <p className='reference'>Photo by Khürt Williams on Unsplash</p>
           </span>
           <p>
-          I am offering schools and families Beach School sessions on a one off or short term basis. It can be timetabled into educational programmes or take place after school, at weekends or during holidays.
+          I am offering schools and out of school Beach School sessions on a one off or short term basis. It can be timetabled into educational programmes or take place after school, at weekends or during holidays.
           </p>
 
           <h3>
@@ -129,22 +129,16 @@ class Main extends React.Component {
           Session Costs, Ages and Sizes
           </h3> 
           <p>
-          For schools, a 1 hour session will cost $60.
-          </p>
-          <p>
-          For families, a 1 hour session will cost $40 per child (10% off for multiple children under the same booking).
-          </p>
-          <p>
-          To book a lesson, please contact me. On booking a lesson, a confirmation email with date and time will be sent to your email address. After the lesson an invoice will be issued to the same email address.
-          </p>
-          <p>
-          Sessions are tailored for children aged 4-8 and 9-13 years old. However, Parents are welcome to come along. I am also happy to discuss session for younger/older children or adults.
-          </p>
-          <p>
           For all sessions, the adult to children ratio will be 1:6. I feel smaller group sizes allows for more flexible and hands-on learning. This in turn, provides children with a higher quality learning experience.
           </p>
           <p>
           For schools, the ideal group size would be no larger than 10 children. This can be negotiable. Nevertheless, the support of Classroom Teachers and/or Teacher Aides will be required at the same adult to children ratio of 1:6.
+          </p>
+          <p>
+          To book a lesson, please contact myself via the Contact section of this site. On booking a lesson, a confirmation email with date and time will be sent to your email address. After the lesson an invoice will be issued to the same email address.
+          </p>
+          <p>
+          Sessions are tailored for children aged 4-8 and 9-13 years old. However, Parents are welcome to come along. I am also happy to discuss session for younger/older children or adults.
           </p>
 
           <h3>

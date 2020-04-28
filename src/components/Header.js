@@ -13,7 +13,7 @@ const Header = props => (
         <h4>
         Kia ora and welcome to Hayley’s Beach School!
         <br />
-        I am offering Beach School sessions to schools and families on Waihi Beach. 
+        I am offering Beach School sessions on Waihi Beach. 
         <br />
         Come along, have fun and learn about the beach and seas!
         </h4>
