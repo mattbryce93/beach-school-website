@@ -30,7 +30,7 @@ class Main extends React.Component {
         >
           <h2 className="major">What is Beach School?</h2>
           <span className="image main">
-            <img src={intro} alt="" />
+            <img src={intro} alt="A hand extended out towards the sea, dropping shells" />
             <p className='reference'>Photo by Razvan Narcis Ticu on Unsplash</p>
           </span>
           <p>
@@ -69,7 +69,7 @@ class Main extends React.Component {
         >
           <h2 className="major">About Me</h2>
           <span className="image main">
-            <img src={about} alt="" />
+            <img src={about} alt="Hayley smiling on beach" />
             <p className='reference'>On my Coastal Activity Course. Findhorn Beach, Scotland</p>
           </span>
           <p>Hello, I’m Hayley and I’m originally from Glasgow, Scotland. I’ve been in New Zealand since August 2019 and now live in Waihi Beach, Bay of Plenty. </p>
@@ -93,7 +93,7 @@ class Main extends React.Component {
         >
           <h2 className="major">Lessons</h2>
           <span className="image main">
-            <img src={lessons} alt="" />
+            <img src={lessons} alt="People on beach, digging sand" />
             <p className='reference'>Photo by Khürt Williams on Unsplash</p>
           </span>
           <p>

@@ -5,7 +5,7 @@ import profileImage from '../images/profileImage.png'
 const Header = props => (
   <header id="header" style={props.timeout ? { display: 'none' } : {}}>
     <div className="logo">
-      <img src={profileImage} alt=''></img>
+      <img src={profileImage} alt='Hayley smiling at aquarium'></img>
     </div>
     <div className="content">
       <div className="inner">
