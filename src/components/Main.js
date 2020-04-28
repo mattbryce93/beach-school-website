@@ -126,7 +126,7 @@ class Main extends React.Component {
           </p>
 
           <h3>
-          Session Costs, Ages and Sizes
+          Session Sizes and Ages
           </h3> 
           <p>
           For all sessions, the adult to children ratio will be 1:6. I feel smaller group sizes allows for more flexible and hands-on learning. This in turn, provides children with a higher quality learning experience.
