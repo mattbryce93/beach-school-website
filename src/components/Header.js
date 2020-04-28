@@ -10,13 +10,13 @@ const Header = props => (
     <div className="content">
       <div className="inner">
         <h1>Hayley's Beach School</h1>
-        <p>
+        <h4>
         Kia ora and welcome to Hayley’s Beach School!
         <br />
         I am offering Beach School sessions to schools and families on Waihi Beach. 
         <br />
         Come along, have fun and learn about the beach and seas!
-        </p>
+        </h4>
       </div>
     </div>
     <nav>

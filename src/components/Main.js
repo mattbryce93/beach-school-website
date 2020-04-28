@@ -56,50 +56,6 @@ class Main extends React.Component {
           <p>
           Regarding Beach School education, the beach is a perfect example of a blue space. Blue spaces are described as those comprised of all observable surface water. These environments have displayed an ability to generate wellbeing benefits (Völker and Kistemann 2011). A study conducted by Wheeler et al (2012), found that self-reported good health was more prevalent the closer participants lived to the coast. Green nature and natural water environments were repeatedly preferred over other forms of nature by participants who felt relaxed. Those who were exhibiting happiness also frequently selected natural water environments (Regan and Horn 2005). This suggests that the natural environment, including the beach, is desirable when relaxing or enjoying recreational activities.
           </p>
-
-
-
-          <h4>References:</h4>
-          <p className='reference'>
-          Coon, T.J., Boddy, K., Stein, K., Whear, R., Barton, J. and Depledge, M.H. (2011) Does Participating in Physical Activity in Outdoor Natural Environments Have a Greater Effect on Physical and Mental Wellbeing Than Physical Activity Indoors? A Systematic Review. Environmental Science & Technology. 45(5). pp. 1761-1772.
-          </p>
-          
-          <p className='reference'>
-          de Vries, S., van Dillen, S.M.E., Groenewegen, P. and Spreeuwenberg, P. (2010) Nearby nature and human health: stress, social cohesion and physical activity as possible mediators. In Forests for the future: Sustaining Society and the Environment, XXIII IUFRO World Congress, Seoul, Republic of Korea (pp. 462-462). The commonwealth forestry association.
-          </p>
-          
-          <p className='reference'>
-          Dodge, R., Daly, A., Huyton, J.r and Sanders, L. (2012) The Challenge of Defining Wellbeing. International Journal of Wellbeing. 2(3). pp. 222-235.
-          </p>
-          
-          <p className='reference'>
-          Lederbogen, F., Kirsch, P., Haddad, L., Streit, F., Tost, H., Schuch, P., Wüst, S., Pruessner, J.C., Rietschel, M., Deuschle, M. and Meyer-Lindenberg, A. (2011) City Living and Urban Upbringing Affect Neural Social Stress Processing in Humans. Nature. 474. pp. 498-501.
-          </p>
-          
-          <p className='reference'>
-          Mitten, D, Overholt, J.R., Haynes, F.I., D’Amore, C.C., and Ady, J.C. (2016) Hiking: A Low-Cost, Accessible Intervention to Promote Health Benefits. American Journal of Lifestyle Medicine. 1559827616658229.
-          </p>
-          
-          <p className='reference'>
-          Regan, C.L. and Horn, S.A. (2005) To Nature or Not to Nature: Associations between Environmental Preferences, Mood States and Demographic Factors. Journal of Environmental Psychology. 25(1). pp. 57-66.
-          </p>
-          
-          <p className='reference'>
-          The Wildlife Trusts and RSPB. (2014) A Nature and Wellbeing Act. Available: www.wildlifetrusts.org/sites/default/files/green_paper_nature_and_wellbeing_act_full_final. pdf [Accessed: 01/03/17].
-          </p>
-          
-          <p className='reference'>
-          Völker, S. and Kistemann, T. (2011) The Impact of Blue Space on Human Health and Well- Being–Salutogenetic Health Effects of Inland Surface Waters: A Review. International Journal of Hygiene and Environmental Health. 214(6). pp. 449-460.
-          </p>
-          
-          <p className='reference'>
-          Wheeler, B.W., White, M., Stahl-Timmins, W. and Depledge, M.H. (2012) Does Living by the Coast Improve Health and Wellbeing? Health & Place. 18(5). pp.1198-1201.
-          </p>
-
-
-          <p className='reference'>
-          World Health Organization. (2016) Mental Health: Strengthening Our Response. Media Centre: Fact Sheets. Available: www.who.int/mediacentre/factsheets/fs220/en/ [Accessed: 20/03/17].
-          </p>
           {close}
         </article>
 
@@ -143,9 +99,6 @@ class Main extends React.Component {
           <p>
           I am offering schools and families Beach School sessions on a one off or short term basis. It can be timetabled into educational programmes or take place after school, at weekends or during holidays.
           </p>
-          <p>
-          Sessions will take place on Waihi Beach in front of the Waihi Beach Lifeguard Office.
-          </p>
 
           <h3>
           Beach School Topics
@@ -183,9 +136,6 @@ class Main extends React.Component {
           </p>
           <p>
           To book a lesson, please contact me. On booking a lesson, a confirmation email with date and time will be sent to your email address. After the lesson an invoice will be issued to the same email address.
-          </p>
-          <p>
-          Please meet in the car park adjacent to the Lifeguard Office 10 minutes before the start of your session. Unfortunately, you will have to organise your own transport.
           </p>
           <p>
           Sessions are tailored for children aged 4-8 and 9-13 years old. However, Parents are welcome to come along. I am also happy to discuss session for younger/older children or adults.
@@ -228,7 +178,7 @@ class Main extends React.Component {
           When necessary, I will use a whistle to gather children together or get immediate attention.
           </p>
           <p>
-          Physical boundaries will be made clear using landmarks on or around the beach. Normally, these will be the Lifeguard office and public toilets.
+          Physical boundaries will be made clear using landmarks on or around the beach.
           </p>
           <p>
           Parents or the school will be informed immediately if a child is involved in any injuries, accidents, incidents, dangerous behaviour or unsafe use of equipment.
