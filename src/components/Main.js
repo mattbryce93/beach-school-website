@@ -78,7 +78,7 @@ class Main extends React.Component {
 
           <p>Through my previous role as a Probationary Geography Teacher in Scotland, I endeavoured to provide my pupils with fun educational experiences. I gained considerable experience creating and delivering lessons, many of which focused on marine life and ocean plastic. Following the completion of my Probationary Year, I gained Full Registration with the General Teaching Council for Scotland. Since arriving in New Zealand, I received Provisional Registration with the Teaching Council of New Zealand. </p>
 
-          <p>As well as becoming a Teacher, I worked as a BASI Alpine Level 1 Instructor for 4 years, which involved teaching groups of varying ages. Moreover, while living in Auckland for several months, I worked as a College Teacher Aide. Consequently, I have experience with supporting and engaging young people of varying abilities. </p>
+          <p>As well as becoming a Teacher, I worked as a BASI Alpine Level 1 Skiing Instructor for 4 years, which involved teaching groups of varying ages. Moreover, while living in Auckland for several months, I worked as a College Teacher Aide. Consequently, I have experience with supporting and engaging young people of varying abilities. </p>
 
           <p>Through my love of teaching, the marine environment and active working, I have decided to establish my own Beach School! I aim to educate and inspire people of all ages. But most of all, I want everyone to enjoy and have fun at the beach!</p>
           {close}
