@@ -31,35 +31,68 @@ class Main extends React.Component {
         >
           <h2 className="major">What is Beach School?</h2>
           <span className="image main">
-            <img src={intro} alt="A hand extended out towards the sea, dropping shells" />
-            <p className='reference'>Photo by Razvan Narcis Ticu on Unsplash</p>
+            <img
+              src={intro}
+              alt="A hand extended out towards the sea, dropping shells"
+            />
+            <p className="reference">Photo by Razvan Narcis Ticu on Unsplash</p>
           </span>
           <p>
-          Beach School provides children with the opportunity to visit, learn about and fall in love with the beach through hands-on learning. It raises children’s awareness of local and global coastal environments, inspiring them to assist in conservation efforts. Consequently, this helps to safeguard our seas and beaches for future generations.
+            Beach School provides children with the opportunity to visit, learn
+            about and fall in love with the beach through hands-on learning. It
+            raises children’s awareness of local and global coastal
+            environments, inspiring them to assist in conservation efforts.
+            Consequently, this helps to safeguard our seas and beaches for
+            future generations.
           </p>
           <p>
-          Using a variety of fun games and activities, children acquire new skills, expand their knowledge and are actively encouraged to explore their natural surroundings. This style of learning is strongly child-led, so no two beach school sessions are the same.
+            Using a variety of fun games and activities, children acquire new
+            skills, expand their knowledge and are actively encouraged to
+            explore their natural surroundings. This style of learning is
+            strongly child-led, so no two beach school sessions are the same.
           </p>
 
           <h3>The Importance of Going Outdoors</h3>
           <p>
-          Health, as defined by The World Health Organization is a state of total physical, mental and social well-being. Moreover, wellbeing is defined as a condition where an individual has the physical, psychological and social means to overcome psychological, social and/or physical challenges.
+            Health, as defined by The World Health Organization is a state of
+            total physical, mental and social well-being. Moreover, wellbeing is
+            defined as a condition where an individual has the physical,
+            psychological and social means to overcome psychological, social
+            and/or physical challenges.
           </p>
-          
+
           <p>
-          Outdoor activities and contact with nature is not only fun, but also encompasses fitness, stress management, education and social bonding. Time spent in the natural environment can provide both immediate and long term physical, mental and social benefits.
+            Outdoor activities and contact with nature is not only fun, but also
+            encompasses fitness, stress management, education and social
+            bonding. Time spent in the natural environment can provide both
+            immediate and long term physical, mental and social benefits.
           </p>
-          
+
           <p>
-          In general, individuals who have access to nature are three times more likely to participate in physical activity and the risk of becoming overweight or obese is reduced by 40%. Engagement with the natural environment can also facilitate the treatment of depression and other mental health illnesses. The reduction of tension and depression was observed in studies that monitored benefits of outdoor activity.
+            In general, individuals who have access to nature are three times
+            more likely to participate in physical activity and the risk of
+            becoming overweight or obese is reduced by 40%. Engagement with the
+            natural environment can also facilitate the treatment of depression
+            and other mental health illnesses. The reduction of tension and
+            depression was observed in studies that monitored benefits of
+            outdoor activity.
           </p>
-          
+
           <p>
-          Regarding Beach School education, the beach is a perfect example of a blue space. Blue spaces are described as those comprised of all observable surface water. These environments have displayed an ability to generate wellbeing benefits. One study found that self-reported good health was more prevalent the closer participants lived to the coast. Green nature and natural water environments were repeatedly preferred over other forms of nature by participants who felt relaxed. Those who were exhibiting happiness also frequently selected natural water environments. This suggests that the natural environment, including the beach, is desirable when relaxing or enjoying recreational activities.
+            Regarding Beach School education, the beach is a perfect example of
+            a blue space. Blue spaces are described as those comprised of all
+            observable surface water. These environments have displayed an
+            ability to generate wellbeing benefits. One study found that
+            self-reported good health was more prevalent the closer participants
+            lived to the coast. Green nature and natural water environments were
+            repeatedly preferred over other forms of nature by participants who
+            felt relaxed. Those who were exhibiting happiness also frequently
+            selected natural water environments. This suggests that the natural
+            environment, including the beach, is desirable when relaxing or
+            enjoying recreational activities.
           </p>
           {close}
         </article>
-
 
         <article
           id="about"
@@ -71,19 +104,53 @@ class Main extends React.Component {
           <h2 className="major">About Me</h2>
           <span className="image main">
             <img src={about} alt="Hayley smiling on beach" />
-            <p className='reference'>On my Coastal Activity Course. Findhorn Beach, Scotland</p>
+            <p className="reference">
+              On my Coastal Activity Course. Findhorn Beach, Scotland
+            </p>
           </span>
-          <p>Hello, I’m Hayley and I’m originally from Glasgow, Scotland. I’ve been in New Zealand since August 2019 and now live in Waihi Beach, Bay of Plenty. </p>
+          <p>
+            Hello, I’m Hayley and I’m originally from Glasgow, Scotland. I’ve
+            been in New Zealand since August 2019 and now live in Waihi Beach,
+            Bay of Plenty.{' '}
+          </p>
 
-          <p>I have always had an interest in education and the marine environment. My passion and knowledge were developed by my Undergraduate Degree (Hons) in Environmental Geography and distance learning Marine Biology course. Following my Post Graduate Diploma in Secondary Education, I undertook my Level 2 Coastal Activity Leader training and Level 3 Beach School Practitioner course. I have also kept an up to date Outdoor First Aid qualification. </p>
+          <p>
+            I have always had an interest in education and the marine
+            environment. My passion and knowledge were developed by my
+            Undergraduate Degree (Hons) in Environmental Geography and distance
+            learning Marine Biology course. Following my Post Graduate Diploma
+            in Secondary Education, I undertook my Level 2 Coastal Activity
+            Leader training and Level 3 Beach School Practitioner course. I have
+            also kept an up to date Outdoor First Aid qualification.{' '}
+          </p>
 
-          <p>Through my previous role as a Probationary Geography Teacher in Scotland, I endeavoured to provide my pupils with fun educational experiences. I gained considerable experience creating and delivering lessons, many of which focused on marine life and ocean plastic. Following the completion of my Probationary Year, I gained Full Registration with the General Teaching Council for Scotland. Since arriving in New Zealand, I received Provisional Registration with the Teaching Council of New Zealand. </p>
+          <p>
+            Through my previous role as a Probationary Geography Teacher in
+            Scotland, I endeavoured to provide my pupils with fun educational
+            experiences. I gained considerable experience creating and
+            delivering lessons, many of which focused on marine life and ocean
+            plastic. Following the completion of my Probationary Year, I gained
+            Full Registration with the General Teaching Council for Scotland.
+            Since arriving in New Zealand, I received Provisional Registration
+            with the Teaching Council of New Zealand.{' '}
+          </p>
 
-          <p>As well as becoming a Teacher, I worked as a BASI Alpine Level 1 Skiing Instructor for 4 years, which involved teaching groups of varying ages. Moreover, while living in Auckland for several months, I worked as a College Teacher Aide. Consequently, I have experience with supporting and engaging young people of varying abilities. </p>
+          <p>
+            As well as becoming a Teacher, I worked as a BASI Alpine Level 1
+            Skiing Instructor for 4 years, which involved teaching groups of
+            varying ages. Moreover, while living in Auckland for several months,
+            I worked as a College Teacher Aide. Consequently, I have experience
+            with supporting and engaging young people of varying abilities.{' '}
+          </p>
 
-          <p>Through my love of teaching, the marine environment and active working, I have decided to establish my own Beach School! I aim to educate and inspire people of all ages. But most of all, I want everyone to enjoy and have fun at the beach!</p>
+          <p>
+            Through my love of teaching, the marine environment and active
+            working, I have decided to establish my own Beach School! I aim to
+            educate and inspire people of all ages. But most of all, I want
+            everyone to enjoy and have fun at the beach!
+          </p>
           <span className="image badge">
-            <img src={accreditation} alt=""/>
+            <img src={accreditation} alt="" />
           </span>
           {close}
         </article>
@@ -98,56 +165,74 @@ class Main extends React.Component {
           <h2 className="major">Lessons</h2>
           <span className="image main">
             <img src={lessons} alt="People on beach, digging sand" />
-            <p className='reference'>Photo by Khürt Williams on Unsplash</p>
+            <p className="reference">Photo by Khürt Williams on Unsplash</p>
           </span>
           <p>
-          I am offering Beach School sessions to schools on a one off or short term basis. These can be timetabled into educational programmes or take place after school.
+            I am offering Beach School sessions to schools or private groups on
+            a one off or short term basis. These can be timetabled into
+            educational programmes, take place after school or at weekends.
           </p>
 
-          <h3>
-          Beach School Topics
-          </h3>
+          <h3>Beach School Topics</h3>
           <p>
-          Any number of the following topics could be explored during a session:
+            Any number of the following topics could be explored during a
+            session:
           </p>
           <ul>
             <li>How to behave sensibly and act responsibly at the beach</li>
             <li>Seasons and tides</li>
             <li>Species identification and information</li>
-            <li>How marine flora and fauna are adapted to survive in their environment</li>
-            <li>Pressures on the marine environment; including over fishing and marine pollution</li>
+            <li>
+              How marine flora and fauna are adapted to survive in their
+              environment
+            </li>
+            <li>
+              Pressures on the marine environment; including over fishing and
+              marine pollution
+            </li>
             <li>Mini beach cleans</li>
             <li>Environmental/marine art</li>
           </ul>
           <p>
-          I am also happy to discuss custom lessons, including those within the classroom.
+            I am also happy to discuss custom lessons, including those within
+            the classroom.
           </p>
           <p>
-          Through these activities, children will also develop important life skills such as team work, communication, and confidence in an outdoor setting.
+            Through these activities, children will also develop important life
+            skills such as team work, communication, and confidence in an
+            outdoor setting.
           </p>
           <p>
-          Unfortunately, children will not be permitted to go swimming during Beach School sessions. However, they will be able to stand at the water line and enjoy the water rushing over their feet.
+            Unfortunately, children will not be permitted to go swimming during
+            Beach School sessions. However, they will be able to stand at the
+            water line and enjoy the water rushing over their feet.
           </p>
 
-          <h3>
-          Session Ages and Sizes
-          </h3> 
+          <h3>Session Ages and Sizes</h3>
           <p>
-          Sessions are tailored for children aged 4-8 and 9-13 years old. I am also happy to discuss sessions for younger or older children.
+            Sessions are tailored for children aged 4-8 and 9-13 years old. I am
+            also happy to discuss sessions for younger or older children.
           </p>
           <p>
-          For all sessions, the adult to children ratio will be 1:6. I feel smaller group sizes allows for more flexible and hands-on learning. This in turn, provides children with a higher quality learning experience.
+            For all sessions, the adult to children ratio will be 1:6. I feel
+            smaller group sizes allows for more flexible and hands-on learning.
+            This in turn, provides children with a higher quality learning
+            experience.
           </p>
           <p>
-          For schools, the ideal group size would be no larger than 10 children. This can be negotiable. Nevertheless, the support of Classroom Teachers and/or Teacher Aides will be required at the same adult to children ratio of 1:6.
+            For schools, the ideal group size would be no larger than 10
+            children. This can be negotiable. Nevertheless, the support of
+            Classroom Teachers and/or Teacher Aides will be required at the same
+            adult to children ratio of 1:6.
           </p>
           <p>
-          To book a lesson, please contact myself via the Contact section of this site. On booking a lesson, a confirmation email with date and time will be sent to your email address. After the lesson an invoice will be issued to the same email address.
+            To book a lesson, please contact myself via the Contact section of
+            this site. On booking a lesson, a confirmation email with date and
+            time will be sent to your email address. After the lesson an invoice
+            will be issued to the same email address.
           </p>
 
-          <h3>
-          What to Wear and Bring to a Beach School Session
-          </h3>
+          <h3>What to Wear and Bring to a Beach School Session</h3>
           <ul>
             <li>Shirts with sleeves and/or shoulder cover, collars</li>
             <li>Sun hats with wide brims and/or flaps</li>
@@ -161,23 +246,32 @@ class Main extends React.Component {
             <li>Any required medication</li>
           </ul>
           <p>
-          The natural world is always changing and going outside in all weather provides valuable learning experiences. Beach School will take place in all weather, unless it is unsafe to do so. All participants must therefore come prepared. Unfortunately, I cannot supply wet or cold weather gear. 
+            The natural world is always changing and going outside in all
+            weather provides valuable learning experiences. Beach School will
+            take place in all weather, unless it is unsafe to do so. All
+            participants must therefore come prepared. Unfortunately, I cannot
+            supply wet or cold weather gear.
           </p>
 
-          <h3>
-          Health, Safety and Emergencies
-          </h3>
+          <h3>Health, Safety and Emergencies</h3>
           <p>
-          At the start of every session there will be a safety briefing, which includes physical boundaries, safety guidelines and session specific expectations. Children must follow my instructions, so that everyone can enjoy the session in a fun, but safe manner.
+            At the start of every session there will be a safety briefing, which
+            includes physical boundaries, safety guidelines and session specific
+            expectations. Children must follow my instructions, so that everyone
+            can enjoy the session in a fun, but safe manner.
           </p>
           <p>
-          When necessary, I will use a whistle to gather children together or get immediate attention.
+            When necessary, I will use a whistle to gather children together or
+            get immediate attention.
           </p>
           <p>
-          Physical boundaries will be made clear using landmarks on or around the beach.
+            Physical boundaries will be made clear using landmarks on or around
+            the beach.
           </p>
           <p>
-          The school will be informed immediately if a child is involved in any injuries, accidents, incidents, dangerous behaviour or unsafe use of equipment.
+            The school will be informed immediately if a child is involved in
+            any injuries, accidents, incidents, dangerous behaviour or unsafe
+            use of equipment.
           </p>
           {close}
         </article>
@@ -186,15 +280,18 @@ class Main extends React.Component {
           id="contact"
           className={`${this.props.article === 'contact' ? 'active' : ''} ${
             this.props.articleTimeout ? 'timeout' : ''
-            }`}
+          }`}
           style={{ display: 'none' }}
         >
           <h2 className="major">Contact Me</h2>
           <h3>
-            Email: <a href='mailto:hayley@beachschool.co.nz'>hayley@beachschool.co.nz</a>
+            Email:{' '}
+            <a href="mailto:hayley@beachschool.co.nz">
+              hayley@beachschool.co.nz
+            </a>
           </h3>
           <h3>
-            Mobile: <a href='tel:+6421968403'>+64 (0) 21 196 8403</a>
+            Mobile: <a href="tel:+6421968403">+64 (0) 21 196 8403</a>
           </h3>
           <ul className="icons">
             {/* <li>
